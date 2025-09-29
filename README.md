@@ -10,7 +10,7 @@ It exposes multiple tools over **Streamable HTTP transport**, which can be consu
 
 When applied to a **Kong service or route**, if fraud is detected in the request, the request will not go upstream — instead, it is blocked and reversed at the route level.
 
-Currently, the plugin supports:
+Currently, the plugin supports-
 
 * **Fraud MCP Server**
 * **Gmail MCP Server** (for reporting via email)
