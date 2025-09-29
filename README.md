@@ -1,5 +1,3 @@
----
-
 # Agent AI - Fraud Detection
 
 ## Overview
@@ -215,6 +213,3 @@ Authorization: Bearer <access_token>
 
 * **Developed By:** [AshalP@verifone.com](mailto:AshalP@verifone.com), [AkashA@verifone.com](mailto:AkashA@verifone.com)
 * **Designed By:** [SatyajitS3@verifone.com](mailto:SatyajitS3@verifone.com), [Prema.Namasivayam@verifone.com](mailto:Prema.Namasivayam@verifone.com), [RitikB1@verifone.com](mailto:RitikB1@verifone.com)
-
----
-
