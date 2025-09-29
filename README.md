@@ -167,6 +167,11 @@ Authorization: Bearer <access_token>
 ```
 
 ---
+## Flowchart
+
+<img width="1011" height="566" alt="image" src="https://github.com/user-attachments/assets/13f5d80e-b24a-49bf-8ddc-6ff2dc6b9469" />
+
+---
 
 ## Tools
 
@@ -176,15 +181,12 @@ Authorization: Bearer <access_token>
 { "ip": "192.168.1.10" }
 ```
 
----
-
 * #### Geo Device Check: Flags or blocks devices logging in from multiple countries or risky geographies.
 
 ```json
 { "deviceId": "D123", "ip": "10.0.0.1", "country": "FR" }
 ```
 
----
 
 * #### User Behavior Check: Detects repeated failed login attempts or multiple password attempts for the same user.
 
@@ -195,7 +197,6 @@ Authorization: Bearer <access_token>
   "successfulLogin": false}
 ```
 
----
 
 * #### Session Anomaly Check: Detects when the same session ID is used from multiple IPs (possible hijacking).
 
@@ -203,7 +204,6 @@ Authorization: Bearer <access_token>
 { "sessionId": "S456", "ip": "203.0.113.42" }
 ```
 
----
 
 * #### Transaction Amount Analyzer: Flags unusually large or inconsistent transaction amounts compared to history.
 
