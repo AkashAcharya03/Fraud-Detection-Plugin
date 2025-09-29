@@ -18,8 +18,6 @@ Currently, the plugin supports-
 This enables developers to easily handle fraud detection and reporting requirements. The plugin has the intelligence to automatically generate queries from natural language prompts and deliver results via email, significantly reducing manual effort.
 
 ---
-<img width="1012" height="571" alt="image" src="https://github.com/user-attachments/assets/b58911d8-fdce-4025-ac8c-196b19acaa1d" />
-<img width="1011" height="566" alt="image" src="https://github.com/user-attachments/assets/13f5d80e-b24a-49bf-8ddc-6ff2dc6b9469" />
 
 ## Tested in Kong Release
 
