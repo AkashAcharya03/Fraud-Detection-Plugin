@@ -134,7 +134,7 @@ if len(sys.argv) > 1 and sys.argv[1] in ("--dump", "--dump-all-plugins"):
         json.dumps(
             [
                 {
-                    "name": "my-plugin",
+                    "name": "agentic-ai-fraud-detection",
                     "version": version,
                     "priority": priority,
                     "phases": ["access"],

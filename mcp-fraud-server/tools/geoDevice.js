@@ -13,7 +13,7 @@ export const geoDevice = {
   },
   async execute({ device_id, remote_address, geo }) {
     if (!global.deviceLocations) global.deviceLocations = {};
-    const highRiskCountries = ["RU", "KP", "IR", "SY"];
+    const highRiskCountries = [""];
 
     if (!global.deviceLocations[device_id]) {
       global.deviceLocations[device_id] = { ips: {}, lastCountry: geo };
